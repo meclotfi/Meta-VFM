@@ -144,8 +144,7 @@ See `docs/COMPUTE_INFO.md` for full details.
 @inproceedings{metavfm2026,
   title     = {MetaVFM: Meta-Learned Efficient Adaptation of Vision Foundation Models for Medical Imaging},
   author    = {Anonymized Authors},
-  booktitle = {CVPR},
+  booktitle = {MICCAI},
   year      = {2026},
-  note      = {Submission \#18890 — Confidential}
 }
 ```
