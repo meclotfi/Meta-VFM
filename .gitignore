@@ -1,0 +1,26 @@
+# Checkpoints and model weights
+checkpoints/
+
+# Config files
+**/*.json
+
+# Large data files
+**/*.pt
+**/*.pth
+**/*.npy
+**/*.pkl
+**/*.zip
+**/*.h5
+
+# Jupyter notebook outputs (keep .ipynb structure but not outputs)
+# Uncomment below to strip outputs entirely:
+# **/*.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

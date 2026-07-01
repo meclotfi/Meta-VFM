@@ -1,0 +1,2 @@
+#rsync -avz --update --exclude='*.log' AMD.clsuter2:/vast/users/ibrahim.almakky/projects/Meta_Adapter/work_dir ./work_dir
+rsync -avz --update --exclude='*.log' ./work_dir biomedia.main:/home/lotfimecharbat/Projects/Meta-Adapter/

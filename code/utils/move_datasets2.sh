@@ -1,0 +1,1 @@
+rsync -avz --update biomedia.main:/home/lotfimecharbat/Projects/meta-compress ./
