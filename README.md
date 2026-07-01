@@ -1,7 +1,6 @@
 # MetaVFM — Meta-Learned Efficient Adaptation of Vision Foundation Models
 
 **Paper:** MetaVFM: Meta-Learned Efficient Adaptation of Vision Foundation Models for Medical Imaging
-**Venue:** CVPR 2026 (Submission #18890 — Confidential. Do not distribute.)
 
 ---
 
